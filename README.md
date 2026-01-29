@@ -246,9 +246,7 @@ static const int _maxIterations = 10;
 
 ## 公众号
 
-微信搜 **苍何** 或扫描下方二维码关注苍何的原创公众号，回复 **AI** 即可和 18000+ 好友一同探讨AI，一同学习 AI Coding。
-
-![苍何微信公众号](images/扫码_搜索联合传播样式-标准色版.bmp)
+微信，QQ，telegram,what'sapp ➕ 13060212612
 
 
 ## 📄 许可证
